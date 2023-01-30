@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.hrpartner.io/img/headers/support.png">
 - 🔭 I’m currently working on **python**
 
 - 🌱 I’m currently learning **python**
